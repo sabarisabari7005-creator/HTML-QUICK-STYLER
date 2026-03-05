@@ -25,7 +25,7 @@ A web-based tool for quickly styling HTML elements with CSS. Users can input HTM
 2. *Speed*: Quick styling without needing full coding setup.
 3. *Flexibility*: Handle common HTML/CSS styling tasks.
 
-Would you like me to expand on features, suggest tech choices, or help with a specific part of the project like UI design?
+
 
 ![WhatsApp Image 2026-03-04 at 11 18 42 AM (1)](https://github.com/user-attachments/assets/a01ff713-99b9-4168-8253-a0fd6502b068)
 
