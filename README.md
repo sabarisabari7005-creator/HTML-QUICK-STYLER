@@ -28,5 +28,5 @@ A web-based tool for quickly styling HTML elements with CSS. Users can input HTM
 Would you like me to expand on features, suggest tech choices, or help with a specific part of the project like UI design?
 
 
-output image
+
 
