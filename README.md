@@ -27,6 +27,19 @@ A web-based tool for quickly styling HTML elements with CSS. Users can input HTM
 
 Would you like me to expand on features, suggest tech choices, or help with a specific part of the project like UI design?
 
+![WhatsApp Image 2026-03-04 at 11 18 42 AM (1)](https://github.com/user-attachments/assets/a01ff713-99b9-4168-8253-a0fd6502b068)
+
+![WhatsApp Image 2026-03-04 at 11 18 43 AM (1)](https://github.com/user-attachments/assets/840fbf9b-ef19-4e2a-b0bb-470c87e715b6)
+
+![WhatsApp Image 2026-03-04 at 11 18 48 AM (2)](https://github.com/user-attachments/assets/fd9849f1-b8c9-4048-8d62-7d6d05aa222f)
+
+![WhatsApp Image 2026-03-04 at 11 18 48 AM (3)](https://github.com/user-attachments/assets/5b97486d-28de-4876-b74d-d04c259ef81e)
+
+![WhatsApp Image 2026-03-04 at 11 18 51 AM (1)](https://github.com/user-attachments/assets/3625ad56-f091-4773-9349-51f23513ee15)
+
+
+
+
 
 
 
